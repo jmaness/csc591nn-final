@@ -1,0 +1,7 @@
+kaggle
+keras
+matplotlib
+numpy
+pandas
+tensorflow-gpu
+git+https://github.com/tensorflow/docs

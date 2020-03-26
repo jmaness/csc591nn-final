@@ -1,0 +1,7 @@
+
+# data files
+asl-alphabet.zip
+asl_alphabet_*/
+
+__pycache__
+.ipynb_checkpoints
